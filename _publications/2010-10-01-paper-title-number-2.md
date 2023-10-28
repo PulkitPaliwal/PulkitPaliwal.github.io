@@ -1,5 +1,5 @@
 ---
-title: 'A Survey of A-Star Algorithm Family for  Motion Planning of Autonomous Vehicles'
+title: "A Survey of A-Star Algorithm Family for  Motion Planning of Autonomous Vehicles"
 collection: publications
 permalink: 'https://ieeexplore.ieee.org/document/10063063'
 date: 18-02-2023
