@@ -1,15 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "A Survey of A-Star Algorithm Family for  Motion Planning of Autonomous Vehicles"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 'https://ieeexplore.ieee.org/document/10063063'
+date: 18-02-2023
+venue: '2023 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
